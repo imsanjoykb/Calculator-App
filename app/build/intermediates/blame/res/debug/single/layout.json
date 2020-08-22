@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_panel.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\layout\\history_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preferences.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\layout\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_entry.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\layout\\history_entry.xml"
+    }
+]

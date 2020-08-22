@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\matrix.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\matrix.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\graph_plus.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\graph_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_cling_pressed.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\advanced.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\advanced.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calculator_input_field.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\calculator_input_field.9.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_overflow.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_cling.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\bg_cling.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\graph_minus.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\graph_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_cling_normal.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\btn_cling_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\function.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hand.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\hand.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\egg.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\egg.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_keyboard_key_light_normal_holo.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\btn_keyboard_key_light_normal_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cling.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\cling.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\history_divider.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\history_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hex.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\hex.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\simple.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\simple.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calc_clear_symbol.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\calc_clear_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_keyboard_key_light_pressed_holo.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\btn_keyboard_key_light_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clear_history.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\clear_history.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_keyboard_key_light_disabled_holo.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\btn_keyboard_key_light_disabled_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\graph.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\graph.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_keyboard_key_dark_pressed_holo.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\btn_keyboard_key_dark_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\graph_standard.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\graph_standard.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\matrix_background.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\matrix_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_keyboard_key_dark_normal_holo.9.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable-hdpi\\btn_keyboard_key_dark_normal_holo.9.png"
+    }
+]

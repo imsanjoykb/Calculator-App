@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\delaroystudios\Desktop\Calculator1\app\libs\arity-2.1.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f5fcb42171ddf897aa295ee5f50356abc2a688c8">
+        <dex dex="C:\Users\delaroystudios\Desktop\Calculator1\app\build\intermediates\pre-dexed\debug\arity-2.1.6_51c18128b594c577bee94a16cc91a881eb73ffe4.jar" />
+    </item>
+    <item
+        jar="C:\Users\delaroystudios\Desktop\Calculator1\app\libs\slider.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08c240a89e4ad2d960431b0d5ad25b2924627fa6">
+        <dex dex="C:\Users\delaroystudios\Desktop\Calculator1\app\build\intermediates\pre-dexed\debug\slider_b0a5c362c84bd39cc20da6476100acc48fee5f29.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\delaroystudios\Desktop\Calculator1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e849bc26d4efd9b7f86fe2f331ebd71618a3b224.jar" />
+    </item>
+    <item
+        jar="C:\Users\delaroystudios\Desktop\Calculator1\app\libs\achartengine.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ca77b77fdd7e37c9f30cf71b6149eda409779bb">
+        <dex dex="C:\Users\delaroystudios\Desktop\Calculator1\app\build\intermediates\pre-dexed\debug\achartengine_3c7337c08a8bd1c77fa76e31dc27dd5729e729f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\delaroystudios\Desktop\Calculator1\app\libs\ejml-0.21.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b0ea552892ad6e68c1c7df5b8222661db8467ba">
+        <dex dex="C:\Users\delaroystudios\Desktop\Calculator1\app\build\intermediates\pre-dexed\debug\ejml-0.21_092db16dded658e5c8364d911e58cf7d98fe78d5.jar" />
+    </item>
+
+</items>

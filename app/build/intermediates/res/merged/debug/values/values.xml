@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ADVANCED" type="bool">true</item>
+    <item name="BASIC" type="bool">true</item>
+    <item name="CLICK_TO_OPEN_HISTORY" type="bool">false</item>
+    <item name="DIGIT_GROUPING" type="bool">true</item>
+    <item name="FUNCTION" type="bool">false</item>
+    <item name="GRAPH" type="bool">true</item>
+    <item name="HEX" type="bool">true</item>
+    <item name="MATRIX" type="bool">true</item>
+    <item name="RETURN_TO_BASIC" type="bool">false</item>
+    <item name="USE_RADIANS" type="bool">true</item>
+    <color name="background">#FF000000</color>
+    <color name="button_hint_text">#474747</color>
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="graph_color">#31B6E7</color>
+    <color name="history_input">#E6E6E6</color>
+    <color name="history_result">#999999</color>
+    <color name="magic_flame">#00FFFFFF</color>
+    <color name="pressed_color">#07547B</color>
+    <declare-styleable name="ScrollableDisplay"><attr format="dimension" name="max_height"/></declare-styleable>
+    <dimen name="app_defaultsize_h">598.0dip</dimen>
+    <dimen name="app_defaultsize_w">632.0dip</dimen>
+    <dimen name="app_minimumsize_h">300dp</dimen>
+    <dimen name="app_minimumsize_w">300dp</dimen>
+    <dimen name="btn_clear_text_size">30sp</dimen>
+    <dimen name="btn_digit_text_size">40sp</dimen>
+    <dimen name="btn_function_text_size">30sp</dimen>
+    <dimen name="btn_operation_text_size">40sp</dimen>
+    <dimen name="button_hint_exponent_jump">10dp</dimen>
+    <dimen name="button_hint_offset_x">10dp</dimen>
+    <dimen name="button_hint_offset_y">20dp</dimen>
+    <dimen name="clingPunchThroughGraphicCenterRadius">94dp</dimen>
+    <dimen name="cling_text_block_offset_x">0dp</dimen>
+    <dimen name="cling_text_block_offset_y">0dp</dimen>
+    <dimen name="display_text_size">40sp</dimen>
+    <dimen name="folderClingMarginTop">20dp</dimen>
+    <dimen name="history_bar_height">25dp</dimen>
+    <dimen name="matrix_edit_text_padding">17dp</dimen>
+    <dimen name="max_display_height">200dp</dimen>
+    <dimen name="min_display_height">100dp</dimen>
+    <dimen name="small_display_text_size">20sp</dimen>
+    <integer name="max_digits">14</integer>
+    <string name="A" translatable="false">A</string>
+    <string name="B" translatable="false">B</string>
+    <string name="C" translatable="false">C</string>
+    <string name="D" translatable="false">D</string>
+    <string name="E" translatable="false">E</string>
+    <string name="F" translatable="false">F</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="advanced">Advanced Panel</string>
+    <string name="app_name">Calculator</string>
+    <string name="application_copyright">\u00A9Copyright Creative Media</string>
+    <string name="application_version" translatable="false">v1.0</string>
+    <string name="arccos">cos^\u22121</string>
+    <string name="arcsin">sin^\u22121</string>
+    <string name="arctan">tan^\u22121</string>
+    <string name="basic">Basic Panel</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Binary</string>
+    <string name="clear">CLEAR</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clickToOpenHistory">Click to Open History</string>
+    <string name="cling_dismiss">OK</string>
+    <string name="cling_graph_msg">Graphs will automatically show up here. Go to the advanced panel and build a function using X and Y.</string>
+    <string name="cling_graph_title">Graph</string>
+    <string name="cling_hex_msg">Switch between decimal (dec), binary (bin), and hexadecimal (hex).\n\nWarning: If you believe you\'re getting bad results, you\'re probably in the wrong base. The default is decimal.</string>
+    <string name="cling_hex_title">Change bases</string>
+    <string name="cling_matrix_msg">Tap here to start building and solving matrices.</string>
+    <string name="cling_matrix_title">Matrices</string>
+    <string name="cling_simple_msg">Slide left and right to access more content. Unnecessary pages can be disabled in Settings.</string>
+    <string name="cling_simple_title">Welcome</string>
+    <string name="coma" translatable="false">,</string>
+    <string name="copy">Copy \'%s\'</string>
+    <string name="cos">cos</string>
+    <string name="crossProduct">Cross</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Decimal</string>
+    <string name="degrees">DEG</string>
+    <string name="del">DELETE</string>
+    <string name="determinant">Det</string>
+    <string name="determinantDesc">Determinant</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="digitGrouping">Number Grouping</string>
+    <string name="div">\u00f7</string>
+    <string name="dot">.</string>
+    <string name="dotProduct">Dot</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string name="e">e</string>
+    <string name="easter_egg">Magikarp used Splash but nothing happened.</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="eigenvalueDesc">Eigenvalues</string>
+    <string name="enter">\u2193</string>
+    <string name="equal">=</string>
+    <string name="error">Error</string>
+    <string name="factorial">!</string>
+    <string name="function">Function panel</string>
+    <string name="graph">Graph Panel</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Hexadecimal</string>
+    <string name="hexPanel">Hex Panel</string>
+    <string name="hideHistory">Hide History</string>
+    <string name="i" translatable="false">i</string>
+    <string name="integral" translatable="false">\u222B</string>
+    <string name="leftParen">(</string>
+    <string name="lg">log</string>
+    <string name="ln">ln</string>
+    <string name="lock">Lock Page</string>
+    <string name="matrix">Matrix Panel</string>
+    <string name="matrix_inverse" translatable="false">-1</string>
+    <string name="matrix_new" translatable="false">[ ]</string>
+    <string name="matrix_transpose">T</string>
+    <string name="minus">\u2212</string>
+    <string name="minus_col">-Col</string>
+    <string name="minus_row">-Row</string>
+    <string name="mod">mod</string>
+    <string name="mul">\u00d7</string>
+    <string name="next">Move</string>
+    <string name="parentheses" translatable="false">( )</string>
+    <string name="percentage" translatable="false">%</string>
+    <string name="pi">\u03c0</string>
+    <string name="plus">+</string>
+    <string name="plus_col">+Col</string>
+    <string name="plus_row">+Row</string>
+    <string name="power">^</string>
+    <string name="pref_about">About</string>
+    <string name="pref_actions">Actions</string>
+    <string name="pref_panels">Panels</string>
+    <string name="pref_units">Units</string>
+    <string name="radians">RAD</string>
+    <string name="remove_from_history">Remove from History</string>
+    <string name="returnToBasic">Return to the Basic Panel</string>
+    <string name="rightParen">)</string>
+    <string name="settings">Settings</string>
+    <string name="showHistory">Show History</string>
+    <string name="sign" translatable="false">+/\u2212</string>
+    <string name="sin">sin</string>
+    <string name="solve">Solve</string>
+    <string name="solveForX">Solve for X</string>
+    <string name="solveForY">Solve for Y</string>
+    <string name="sqrt">\u221a</string>
+    <string name="tan">tan</string>
+    <string name="text_copied_toast">Text Copied.</string>
+    <string name="trigUnits">Trig Units</string>
+    <string name="unlock">Unlock Page</string>
+    <style name="ClingButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingLeft">35dp</item>
+        <item name="android:paddingRight">35dp</item>
+        <item name="android:text">@string/cling_dismiss</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/cling_button_bg</item>
+    </style>
+    <style name="ClingText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2.0</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="ClingTitleText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#49C0EC</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="Theme.Calculator" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="btn_clear">
+       <item name="android:background">?android:attr/selectableItemBackground</item>
+       <item name="android:textSize">@dimen/btn_clear_text_size</item>
+    </style>
+    <style name="btn_digit_cell_style">
+       <item name="android:layout_width">0dip</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:gravity">center</item>
+       <item name="android:background">@drawable/btn_digit</item>
+       <item name="android:textSize">@dimen/btn_digit_text_size</item>
+    </style>
+    <style name="btn_function_cell_style">
+       <item name="android:layout_width">0dip</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:background">@drawable/btn_function</item>
+       <item name="android:textSize">@dimen/btn_function_text_size</item>
+    </style>
+    <style name="btn_operation_cell_style">
+       <item name="android:layout_width">0dip</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:gravity">center</item>
+       <item name="android:background">@drawable/btn_function</item>
+       <item name="android:textSize">@dimen/btn_operation_text_size</item>
+    </style>
+    <style name="btn_row_style">
+       <item name="android:layout_width">match_parent</item>
+       <item name="android:layout_height">0dip</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="button_half_style" parent="button_style">
+       <item name="android:textSize">25sp</item>
+    </style>
+    <style name="button_small_style" parent="button_style">
+       <item name="android:textSize">30sp</item>
+    </style>
+    <style name="button_style">
+       <item name="android:textSize">40sp</item>
+       <item name="android:layout_width">match_parent</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:focusable">true</item>
+       <item name="android:background">@drawable/btn_function</item>
+       <item name="android:layout_marginLeft">1dp</item>
+    </style>
+    <style name="digit_button_style" parent="button_style">
+       <item name="android:background">@drawable/btn_digit</item>
+    </style>
+    <style name="display_style">
+       <item name="android:textSize">@dimen/display_text_size</item>
+       <item name="android:inputType">text|textNoSuggestions</item>
+       <item name="android:gravity">right|center_vertical</item>
+       <item name="android:textColor">#ffffff</item>
+       <item name="android:maxLines">1</item>
+       <item name="android:scrollbars">none</item>
+       <item name="android:scrollHorizontally">true</item>
+       <item name="android:layout_width">match_parent</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:paddingTop">8dp</item>
+       <item name="android:paddingLeft">8dp</item>
+       <item name="android:paddingRight">8dp</item>
+       <item name="android:paddingBottom">8dp</item>
+       <item name="max_height">@dimen/max_display_height</item>
+    </style>
+</resources>

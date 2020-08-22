@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bg.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable\\menu_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_function.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable\\btn_function.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cling_button_bg.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable\\cling_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_digit.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\Calculator1\\app\\src\\main\\res\\drawable\\btn_digit.xml"
+    }
+]
